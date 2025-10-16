@@ -49,7 +49,7 @@ O projeto integra de forma prática os conceitos de **HTML5, CSS3, JavaScript**,
 
 ## Como Executar
 
-1. Clone o repositório: git clone https://github.com/seu-usuario/projeto-ongs.git
+1. Clone o repositório: git clone https://github.com/GustavoCMonteiro/Front-End-Para-Web.git
 2. Abra `index.html` no navegador (recomenda-se usar um servidor local, como Live Server do VS Code).
 3. Navegue pelas páginas, teste os formulários e explore as funcionalidades da plataforma.
 
